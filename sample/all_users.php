@@ -54,6 +54,7 @@ $result=$connection->query($all_users);
 </table> 
 	 
 	 <p>done</p>
+	 <p>Go back</p>
  
  </body>
 </html>
